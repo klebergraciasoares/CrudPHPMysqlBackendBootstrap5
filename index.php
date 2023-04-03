@@ -3,7 +3,7 @@
 <?Php 
 	// Autor: Kleber Gracia Soares - Formado em Ciência da Computação
 	// Profissão: Analista Desenvolvedor Pleno
-	// Conexão com Banco de Dados... Bugfix1
+	// Conexão com Banco de Dados... Bugfix2
 	include('conexao.php');
 ?>
 <head> 
